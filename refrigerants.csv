@@ -1,10 +1,6 @@
-Refrigerant,Start_year,End_year,Toxicity,Risk_score,Cooling_power,Notes
-Ammonia,1876,1929,High,0.9,1.0,"Muy tóxico si hay fugas. Primer refrigerante mecánico popular"
-Methyl Chloride,1900,1929,High,0.85,0.9,"Usado en refrigeradores domésticos viejos, tóxico"
-Sulfur Dioxide,1890,1929,High,0.8,0.8,"Gas usado en refrigeradores antiguos, tóxico"
-Freon,1928,1980,Low,0.1,0.7,"Reemplazó gases peligrosos, seguro inicialmente"
-CO2,1910,1925,Medium,0.5,0.6,"Usado en algunos refrigeradores industriales"
-Ether,1880,1905,High,0.95,0.9,"Antiguo refrigerante, muy inflamable y tóxico"
-
+Name,Formula,Tc_K,Pc_bar
+R134a,CH2FCF3,374.2,40.6
+R22,CHClF2,369.3,49.9
+R410A,Blend,344.5,49.0
 
 
